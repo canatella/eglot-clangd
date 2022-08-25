@@ -1,4 +1,4 @@
-;;; eglot-clangd.el -- clangd LSP extensions support -*- lexical-binding: t; -*-
+;;; eglot-clangd.el --- clangd LSP extensions support -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020 Damien Merenne <dam@cosinux.org>
 
